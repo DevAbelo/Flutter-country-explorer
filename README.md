@@ -1,7 +1,7 @@
 # 🌍 Flutter Country Explorer
 
 ## Student Information
-- **Name:** [Abel]
+- **Name:** [Abel Debalke]
 - **Student ID:** [ATE/0668/15]
 - **Course:** Mobile Application Development
 - **Assignment:** Unit 4 — Networking, REST APIs & Data Handling in Flutter
