@@ -114,7 +114,9 @@ class _SearchScreenState extends State<SearchScreen> {
           ),
 
           // Results area
-          Expanded(child: _buildBody()),
+          Expanded(
+            child: _buildBody(),
+          ),
         ],
       ),
     );
